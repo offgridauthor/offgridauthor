@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 “Try to leave the code cleaner than you found it.” 
 
 [![Destination: Mars](https://img.shields.io/badge/DESTINATION:-MARS-GREEN.svg)](https://shields.io/)
 
