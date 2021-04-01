@@ -1,4 +1,4 @@
-### 👋 “Try to leave the code cleaner than you found it.” 
+### 🏕 “Try to leave the code cleaner than you found it.” 🏞
 
 [![Destination: Mars](https://img.shields.io/badge/DESTINATION:-MARS-GREEN.svg)](https://shields.io/)
 
