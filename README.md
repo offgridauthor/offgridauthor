@@ -2,7 +2,7 @@
 
 [![Destination: Yes](https://img.shields.io/badge/DESTINATION:-Yes-GREEN.svg)](https://shields.io/)
 
-- 🔭 I’m currently working on ... Advanced Software Development bootcamp at Codefellows
+- 🔭 I’m currently working on ... open source contribution
 - 🌱 I’m currently learning ... data structures, deFi, Solidity smart contracts
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
