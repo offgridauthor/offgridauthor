@@ -2,8 +2,8 @@
 
 [![Destination: Yes](https://img.shields.io/badge/DESTINATION:-Yes-GREEN.svg)](https://shields.io/)
 
-- 🔭 I’m currently working on ... open source contribution
-- 🌱 I’m currently learning ... data structures, deFi, Solidity smart contracts
+- 🔭 I’m currently working on ... open source contribution, Docker and Kubernetes
+- 🌱 I’m currently learning ... data structures, Solidity smart contracts
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... my sci fi novel in progress
