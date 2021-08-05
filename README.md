@@ -2,10 +2,10 @@
 
 [![Destination: Yes](https://img.shields.io/badge/DESTINATION:-Yes-GREEN.svg)](https://shields.io/)
 
-- 🔭 I’m currently working on ... open source contribution, Docker and Kubernetes
+- 🔭 I’m currently working on ... Java/Spring apps
 - 🌱 I’m currently learning ... Flutter! Also data structures, Solidity smart contracts
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... 
+- 👯 I’m looking to collaborate on ... blockchain/defi
+- 🤔 I’m looking for help with ... blockchain/defi
 - 💬 Ask me about ... my sci fi novel in progress
 - 📫 How to reach me: ... offgridauthor@gmail.com
 - 😄 Pronouns: ... he/him
