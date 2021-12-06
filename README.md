@@ -20,3 +20,8 @@ Each project was built by a team of 2-4 devs over the course of three days
 - [Buyout.sale](https://github.com/team-plains/buyout) - basic ecommerce site using barebones JS/CSS/HTML + Spring Boot, Spring Security, Stripe API
 - [True Proof](https://github.com/TrueProofTeam/true-proof) - Java Android app deployed to Google Play store for calculating true proof required by the US Alcohol and Tobacco Tax and Trade Bureau to distill spirits. Jetpack, Hilt/Dagger, AWS Amplify, Cognito, DynamoDB
 - [Choose Your Seattle Adventure](https://github.com/choose-your-adventure/final-project) - vanilla JS webapp. A guided tour of Seattle area highlights
+
+### Open Source Contributions
+
+- [Syncthing](https://github.com/syncthing/syncthing-android/issues/1625) - Accessibility-focused formatting improvements
+- [buildspace](https://github.com/buildspace/buildspace-projects/pull/267) - Tutorial Revisions
