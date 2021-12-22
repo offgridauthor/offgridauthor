@@ -2,8 +2,8 @@
 
 [![Decentralization: Yes](https://img.shields.io/badge/Decentralization:-Yes-GREEN.svg)](https://shields.io/)
 
-- 🔭 I’m currently working on ... Apigee api engineering / Java microservices for large (~50 million+ requests/day) financial services company
-- 🌱 I’m currently learning ... Solidity, web3, React
+- 🔭 I’m currently working on ... Apigee api engineer / microservices / proxy development for (~50 million+ requests/day) financial services
+- 🌱 I’m currently learning ... Solidity, web3
 - 👯 I’m looking to collaborate on ... Ethereum/L2 blockchain/defi/DAOs/NFTs
 - 🤔 I’m looking for help with ... web3.js, ethers.js
 - 💬 Ask me about ... my experience leading creative writing and yoga retreats around the world
