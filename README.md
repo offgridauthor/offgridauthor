@@ -1,4 +1,4 @@
-### 🏕 “Try to leave the code cleaner than you found it.” 🏞
+### 🏕  🏞
 
 [![Decentralization: Yes](https://img.shields.io/badge/Decentralization:-Yes-GREEN.svg)](https://shields.io/)
 
@@ -14,7 +14,7 @@
 
 ### Portfolio Projects
 
-- [___loading...___]() - React/ETH thingie
+- []() - React/ETH thingie
 - [Markdown/JS IDE](https://github.com/offgridauthor/react-widgets/blob/main/jbook/jbook) - React (Typescript) browser IDE
 
 #### Team projects built in collaboration with 2-4 devs over the course of three days
