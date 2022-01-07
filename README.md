@@ -1,4 +1,4 @@
-### 🏕  🏞
+### 🏕 SOLIDITY 🏞
 
 [![Decentralization: Yes](https://img.shields.io/badge/Decentralization:-Yes-GREEN.svg)](https://shields.io/)
 
