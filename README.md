@@ -14,7 +14,7 @@
 
 ### Portfolio Projects
 
-- []() - React/ETH thingie
+- [qaDAO](https://keen-mcclintock-2aed62.netlify.app/) - testnet DAO - React, thirdweb
 - [Markdown/JS IDE](https://github.com/offgridauthor/react-widgets/blob/main/jbook/jbook) - React (Typescript) browser IDE
 
 #### Team projects built in collaboration with 2-4 devs over the course of three days
