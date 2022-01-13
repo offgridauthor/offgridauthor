@@ -1,11 +1,10 @@
-### 🏕 SOLIDITY 🏞
+### 🏕 iink.eth 🏞
 
 [![Decentralization: Yes](https://img.shields.io/badge/Decentralization:-Yes-GREEN.svg)](https://shields.io/)
 
-- 🔭 I’m currently working on ... Apigee api engineer / microservices / proxy development for (~50 million+ requests/day) financial services
-- 🌱 I’m currently learning ... Solidity, web3
-- 👯 I’m looking to collaborate on ... Ethereum/L2 blockchain/defi/DAOs/NFTs
-- 🤔 I’m looking for help with ... web3.js, ethers.js
+- 🔭 I’m currently working as ... Apigee api engineer / Java microservice, shared flow/ proxy development for (~50 million+ requests/day) financial services corp
+- 👯 I’m looking to collaborate on ... DAOs/NFTs
+- 🤔 Favorite language ... SOLIDITY
 - 💬 Ask me about ... my experience leading creative writing and yoga retreats around the world
 - 📫 How to reach me: ... offgridauthor@gmail.com
 - 😄 Pronouns: ... he/him
@@ -25,12 +24,14 @@
 ### Open Source Contributions
 
 - [Syncthing](https://github.com/syncthing/syncthing-android/issues/1625) - Accessibility-focused formatting improvements
-- [buildspace](https://github.com/buildspace/buildspace-projects/pull/267) - Tutorial Revisions
+- [buildspace](https://github.com/buildspace/buildspace-projects/pull/267) - Tutorial revisions
 
-### 💖
+### 💖 ```
 
-`contract Destructor {
+contract Destructor {
     function destruct() external{
         selfdestruct(msg.sender);
     }   
-}`
+}
+
+```
