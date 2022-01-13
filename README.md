@@ -26,8 +26,8 @@
 - [Syncthing](https://github.com/syncthing/syncthing-android/issues/1625) - Accessibility-focused formatting improvements
 - [buildspace](https://github.com/buildspace/buildspace-projects/pull/267) - Tutorial revisions
 
-### 💖 ```
-
+### 💖 
+```
 contract Destructor {
     function destruct() external{
         selfdestruct(msg.sender);
